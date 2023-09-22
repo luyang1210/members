@@ -18,14 +18,12 @@ Details on how you can edit this page are below.
 | Ryan CROSBY | [www.durham.ac.uk/staff/ryan-crosby/](https://www.durham.ac.uk/staff/ryan-crosby/) |
 | Tom CRICK | [www.swansea.ac.uk/staff/thomas.crick](https://www.swansea.ac.uk/staff/thomas.crick/) |
 | Raluca CRUCERU | [careers.cern/Raluca](https://careers.cern/Raluca) |
-| Paul CURZON | [www.eecs.qmul.ac.uk/~pc](https://www.eecs.qmul.ac.uk/~pc/)
 | Quntin CUTTS | [www.gla.ac.uk/schools/computing/staff/quintincutts](https://www.gla.ac.uk/schools/computing/staff/quintincutts/) | 
 | Andrew CSIZMADIA | [newman.ac.uk/staff/andrew-csizmadia](https://www.newman.ac.uk/staff/andrew-csizmadia/) |
 | Nicky DANINO    | [research.leedstrinity.ac.uk/en/persons/nicky-danino](https://research.leedstrinity.ac.uk/en/persons/nicky-danino) |
 | James DAVENPORT | [people.bath.ac.uk/masjhd](https://people.bath.ac.uk/masjhd/) |
 | Marie DEVLIN | [www.ncl.ac.uk/computing/staff/profile/mariedevlin.html](https://www.ncl.ac.uk/computing/staff/profile/mariedevlin.html) |
 | Konstantinos DOMDOUZIS | [www.shu.ac.uk/about-us/our-people/staff-profiles/konstantinos-domdouzis](https://www.shu.ac.uk/about-us/our-people/staff-profiles/konstantinos-domdouzis) |
-| Chris DOUCE | [www.open.ac.uk/people/crd96](https://www.open.ac.uk/people/crd96) |
 | Matthew ENGLAND | [pureportal.coventry.ac.uk/en/persons/matthew-england](https://pureportal.coventry.ac.uk/en/persons/matthew-england) |
 | Roseanne ENGLISH | [www.strath.ac.uk/staff/englishrosannedr](https://www.strath.ac.uk/staff/englishrosannedr/) |
 | Sally FINCHER | [www.kent.ac.uk/computing/people/3153/fincher-sally](https://www.kent.ac.uk/computing/people/3153/fincher-sally) |
@@ -55,6 +53,8 @@ Details on how you can edit this page are below.
 | Michel WERMELINGER | [www.open.ac.uk/people/mw4687](https://www.open.ac.uk/people/mw4687) |
 | Adriana WILDE | [www.southampton.ac.uk/people/5x82lq/doctor-adriana-wilde](https://www.southampton.ac.uk/people/5x82lq/doctor-adriana-wilde) |
 | Mark ZARB | [rgu-repository.worktribe.com/person/77298/mark-zarb](https://rgu-repository.worktribe.com/person/77298/mark-zarb) |
+| Yang LU | [www.yorksj.ac.uk/our-staff/staff-profiles/yang-lu-.php](https://www.yorksj.ac.uk/our-staff/staff-profiles/yang-lu-.php) |
+
 
 # Editing this page 
 You can update, add or remove information from this if you: 
@@ -63,8 +63,8 @@ You can update, add or remove information from this if you:
 2. Open the file https://github.com/uk-sigcse/members/blob/main/everyone.md
 3. Click on the `edit this file` button, which looks like pencil (top right), in any web browser 
     * ... or go straight to [github.com/uk-sigcse/members/edit/main/everyone.md](https://github.com/uk-sigcse/members/edit/main/everyone.md)
-4. Make your changes and `preview` them to check they look sensible
-5. Once you are happy, click `commmit changes` to save them
+4. Make your changes 
+5. Click `commmit changes` to save them
 
 ... Or fork the repository, edit the `everyone.md` file and submit a pull request. 
 
